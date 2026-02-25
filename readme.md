@@ -1,75 +1,102 @@
-🧾 C# (.NET) CLI Command Reference
-🏗️ Create a New Console Project
+# 🧾 C# (.NET) CLI Command Reference
+
+---
+
+## 🏗️ Create a New Console Project
+
+```bash
 dotnet new console -n <ProjectName>
+```
 
-Command Details:
+### 🔎 Command Details
 
-dotnet new → Generates a new project using a specified template.
+- `dotnet new` → Generates a new project using a specified template.
+- `console` → Specifies the project type as a Console Application.
+- `-n` → Assigns a name to the project and creates a folder with that name.
 
-console → Defines the project type as a Console Application.
+---
 
--n → Assigns a name to the project and creates a folder with that name.
+## 📁 Navigate to Project Directory
 
-📁 Navigate to Project Folder
+```bash
 cd <ProjectName>
+```
 
-Command Details:
+### 🔎 Command Details
 
-cd → Changes the current working directory to the project directory.
+- `cd` → Changes the current working directory to the specified project folder.
 
-▶️ Run the Application
+---
+
+## ▶️ Run the Application
+
+```bash
 dotnet run
+```
 
-Command Details:
+### 🔎 Command Details
 
-Builds the project automatically if needed.
+- Builds the project automatically if required.
+- Executes the compiled application.
+- Used for normal development execution.
 
-Executes the compiled application.
+---
 
-Used for normal development execution.
+## 🔄 Run with Live Hot Reload
 
-🔄 Run with Live Hot Reload
+```bash
 dotnet watch run
+```
 
-Command Details:
+### 🔎 Command Details
 
-Monitors project files for changes.
+- Watches project files for changes.
+- Automatically rebuilds and reruns the application when files are saved.
+- Improves development workflow speed.
 
-Automatically rebuilds and restarts the application on save.
+---
 
-Speeds up development workflow.
+## 🧱 Build the Project
 
-🧱 Build the Project
+```bash
 dotnet build
+```
 
-Command Details:
+### 🔎 Command Details
 
-Compiles the application source code.
+- Compiles the source code.
+- Generates output files inside the `bin` directory.
+- Does not execute the application.
 
-Produces output files inside the bin directory.
+---
 
-Does not execute the program.
+## 🧹 Clean the Project
 
-🧹 Clean Build Artifacts
+```bash
 dotnet clean
+```
 
-Command Details:
+### 🔎 Command Details
 
-Removes compiled files.
+- Removes compiled output files.
+- Deletes `bin` and `obj` folders.
+- Useful for resetting build artifacts.
 
-Deletes bin and obj folders.
+---
 
-Useful for resetting the project state.
+## 🔍 Check Installed .NET Version
 
-🔍 Check Installed .NET Version
+```bash
 dotnet --version
+```
 
-Command Details:
+### 🔎 Command Details
 
-Displays the installed .NET SDK version.
+- Displays the installed .NET SDK version.
+- Used to verify environment setup.
 
-Confirms proper SDK installation.
+---
 
-⚙️ Requirement
+## ⚙️ Requirement
 
-Ensure the .NET SDK is installed and correctly configured in your system environment variables before executing these commands.
+Ensure the .NET SDK is installed and properly configured in your system PATH before running these commands.
