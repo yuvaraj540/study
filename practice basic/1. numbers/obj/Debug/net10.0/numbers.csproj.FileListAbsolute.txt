@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\numbers.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\numbers.AssemblyInfo.cs
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\numbers.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\numbers\bin\Debug\net10.0\numbers.exe
+D:\practice\C#\practice basic\numbers\bin\Debug\net10.0\numbers.deps.json
+D:\practice\C#\practice basic\numbers\bin\Debug\net10.0\numbers.runtimeconfig.json
+D:\practice\C#\practice basic\numbers\bin\Debug\net10.0\numbers.dll
+D:\practice\C#\practice basic\numbers\bin\Debug\net10.0\numbers.pdb
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\numbers.dll
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\refint\numbers.dll
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\numbers.pdb
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\numbers.genruntimeconfig.cache
+D:\practice\C#\practice basic\numbers\obj\Debug\net10.0\ref\numbers.dll

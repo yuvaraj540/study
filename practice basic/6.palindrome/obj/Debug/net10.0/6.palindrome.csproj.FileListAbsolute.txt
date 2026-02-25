@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\6.palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\6.palindrome.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\6.palindrome.AssemblyInfo.cs
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\6.palindrome.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\6.palindrome\bin\Debug\net10.0\6.palindrome.exe
+D:\practice\C#\practice basic\6.palindrome\bin\Debug\net10.0\6.palindrome.deps.json
+D:\practice\C#\practice basic\6.palindrome\bin\Debug\net10.0\6.palindrome.runtimeconfig.json
+D:\practice\C#\practice basic\6.palindrome\bin\Debug\net10.0\6.palindrome.dll
+D:\practice\C#\practice basic\6.palindrome\bin\Debug\net10.0\6.palindrome.pdb
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\6.palindrome.dll
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\refint\6.palindrome.dll
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\6.palindrome.pdb
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\6.palindrome.genruntimeconfig.cache
+D:\practice\C#\practice basic\6.palindrome\obj\Debug\net10.0\ref\6.palindrome.dll

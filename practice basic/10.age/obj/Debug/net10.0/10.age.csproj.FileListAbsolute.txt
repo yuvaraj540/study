@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\10.age\bin\Debug\net10.0\10.age.exe
+D:\practice\C#\practice basic\10.age\bin\Debug\net10.0\10.age.deps.json
+D:\practice\C#\practice basic\10.age\bin\Debug\net10.0\10.age.runtimeconfig.json
+D:\practice\C#\practice basic\10.age\bin\Debug\net10.0\10.age.dll
+D:\practice\C#\practice basic\10.age\bin\Debug\net10.0\10.age.pdb
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\10.age.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\10.age.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\10.age.AssemblyInfo.cs
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\10.age.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\10.age.dll
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\refint\10.age.dll
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\10.age.pdb
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\10.age.genruntimeconfig.cache
+D:\practice\C#\practice basic\10.age\obj\Debug\net10.0\ref\10.age.dll

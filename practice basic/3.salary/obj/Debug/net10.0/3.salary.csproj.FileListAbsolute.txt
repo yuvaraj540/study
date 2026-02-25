@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\3.salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\3.salary.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\3.salary.AssemblyInfo.cs
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\3.salary.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\3.salary\bin\Debug\net10.0\3.salary.exe
+D:\practice\C#\practice basic\3.salary\bin\Debug\net10.0\3.salary.deps.json
+D:\practice\C#\practice basic\3.salary\bin\Debug\net10.0\3.salary.runtimeconfig.json
+D:\practice\C#\practice basic\3.salary\bin\Debug\net10.0\3.salary.dll
+D:\practice\C#\practice basic\3.salary\bin\Debug\net10.0\3.salary.pdb
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\3.salary.dll
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\refint\3.salary.dll
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\3.salary.pdb
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\3.salary.genruntimeconfig.cache
+D:\practice\C#\practice basic\3.salary\obj\Debug\net10.0\ref\3.salary.dll

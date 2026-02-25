@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\14.file.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\14.file.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\14.file.AssemblyInfo.cs
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\14.file.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\14.file\bin\Debug\net10.0\14.file.exe
+D:\practice\C#\practice basic\14.file\bin\Debug\net10.0\14.file.deps.json
+D:\practice\C#\practice basic\14.file\bin\Debug\net10.0\14.file.runtimeconfig.json
+D:\practice\C#\practice basic\14.file\bin\Debug\net10.0\14.file.dll
+D:\practice\C#\practice basic\14.file\bin\Debug\net10.0\14.file.pdb
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\14.file.dll
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\refint\14.file.dll
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\14.file.pdb
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\14.file.genruntimeconfig.cache
+D:\practice\C#\practice basic\14.file\obj\Debug\net10.0\ref\14.file.dll

@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\4.multiplication\bin\Debug\net10.0\4.multiplication.exe
+D:\practice\C#\practice basic\4.multiplication\bin\Debug\net10.0\4.multiplication.deps.json
+D:\practice\C#\practice basic\4.multiplication\bin\Debug\net10.0\4.multiplication.runtimeconfig.json
+D:\practice\C#\practice basic\4.multiplication\bin\Debug\net10.0\4.multiplication.dll
+D:\practice\C#\practice basic\4.multiplication\bin\Debug\net10.0\4.multiplication.pdb
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\4.multiplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\4.multiplication.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\4.multiplication.AssemblyInfo.cs
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\4.multiplication.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\4.multiplication.dll
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\refint\4.multiplication.dll
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\4.multiplication.pdb
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\4.multiplication.genruntimeconfig.cache
+D:\practice\C#\practice basic\4.multiplication\obj\Debug\net10.0\ref\4.multiplication.dll

@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\5.digits\bin\Debug\net10.0\digits.exe
+D:\practice\C#\practice basic\5.digits\bin\Debug\net10.0\digits.deps.json
+D:\practice\C#\practice basic\5.digits\bin\Debug\net10.0\digits.runtimeconfig.json
+D:\practice\C#\practice basic\5.digits\bin\Debug\net10.0\digits.dll
+D:\practice\C#\practice basic\5.digits\bin\Debug\net10.0\digits.pdb
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\digits.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\digits.AssemblyInfo.cs
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\digits.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\digits.dll
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\refint\digits.dll
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\digits.pdb
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\digits.genruntimeconfig.cache
+D:\practice\C#\practice basic\5.digits\obj\Debug\net10.0\ref\digits.dll

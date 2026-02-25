@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\16.SentenceToEachWordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\16.SentenceToEachWordCount.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\16.SentenceToEachWordCount.AssemblyInfo.cs
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\16.SentenceToEachWordCount.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\bin\Debug\net10.0\16.SentenceToEachWordCount.exe
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\bin\Debug\net10.0\16.SentenceToEachWordCount.deps.json
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\bin\Debug\net10.0\16.SentenceToEachWordCount.runtimeconfig.json
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\bin\Debug\net10.0\16.SentenceToEachWordCount.dll
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\bin\Debug\net10.0\16.SentenceToEachWordCount.pdb
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\16.SentenceToEachWordCount.dll
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\refint\16.SentenceToEachWordCount.dll
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\16.SentenceToEachWordCount.pdb
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\16.SentenceToEachWordCount.genruntimeconfig.cache
+D:\practice\C#\practice basic\16.SentenceToEachWordCount\obj\Debug\net10.0\ref\16.SentenceToEachWordCount.dll

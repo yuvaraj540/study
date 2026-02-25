@@ -1,0 +1,14 @@
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\12.bill2.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\12.bill2.AssemblyInfoInputs.cache
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\12.bill2.AssemblyInfo.cs
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\12.bill2.csproj.CoreCompileInputs.cache
+D:\practice\C#\practice basic\12.bill2\bin\Debug\net10.0\12.bill2.exe
+D:\practice\C#\practice basic\12.bill2\bin\Debug\net10.0\12.bill2.deps.json
+D:\practice\C#\practice basic\12.bill2\bin\Debug\net10.0\12.bill2.runtimeconfig.json
+D:\practice\C#\practice basic\12.bill2\bin\Debug\net10.0\12.bill2.dll
+D:\practice\C#\practice basic\12.bill2\bin\Debug\net10.0\12.bill2.pdb
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\12.bill2.dll
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\refint\12.bill2.dll
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\12.bill2.pdb
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\12.bill2.genruntimeconfig.cache
+D:\practice\C#\practice basic\12.bill2\obj\Debug\net10.0\ref\12.bill2.dll
