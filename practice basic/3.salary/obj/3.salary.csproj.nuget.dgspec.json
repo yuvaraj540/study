@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practice\\C#\\practice basic\\3.salary\\3.salary.csproj": {}
+    "D:\\practice\\C#\\study\\practice basic\\3.salary\\3.salary.csproj": {}
   },
   "projects": {
-    "D:\\practice\\C#\\practice basic\\3.salary\\3.salary.csproj": {
+    "D:\\practice\\C#\\study\\practice basic\\3.salary\\3.salary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practice\\C#\\practice basic\\3.salary\\3.salary.csproj",
+        "projectUniqueName": "D:\\practice\\C#\\study\\practice basic\\3.salary\\3.salary.csproj",
         "projectName": "3.salary",
-        "projectPath": "D:\\practice\\C#\\practice basic\\3.salary\\3.salary.csproj",
+        "projectPath": "D:\\practice\\C#\\study\\practice basic\\3.salary\\3.salary.csproj",
         "packagesPath": "C:\\Users\\yuvan\\.nuget\\packages\\",
-        "outputPath": "D:\\practice\\C#\\practice basic\\3.salary\\obj\\",
+        "outputPath": "D:\\practice\\C#\\study\\practice basic\\3.salary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practice\\C#\\practice basic\\4.multiplication\\4.multiplication.csproj": {}
+    "D:\\practice\\C#\\study\\practice basic\\4.multiplication\\4.multiplication.csproj": {}
   },
   "projects": {
-    "D:\\practice\\C#\\practice basic\\4.multiplication\\4.multiplication.csproj": {
+    "D:\\practice\\C#\\study\\practice basic\\4.multiplication\\4.multiplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practice\\C#\\practice basic\\4.multiplication\\4.multiplication.csproj",
+        "projectUniqueName": "D:\\practice\\C#\\study\\practice basic\\4.multiplication\\4.multiplication.csproj",
         "projectName": "4.multiplication",
-        "projectPath": "D:\\practice\\C#\\practice basic\\4.multiplication\\4.multiplication.csproj",
+        "projectPath": "D:\\practice\\C#\\study\\practice basic\\4.multiplication\\4.multiplication.csproj",
         "packagesPath": "C:\\Users\\yuvan\\.nuget\\packages\\",
-        "outputPath": "D:\\practice\\C#\\practice basic\\4.multiplication\\obj\\",
+        "outputPath": "D:\\practice\\C#\\study\\practice basic\\4.multiplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

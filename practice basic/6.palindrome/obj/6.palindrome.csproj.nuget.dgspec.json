@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practice\\C#\\practice basic\\6.palindrome\\6.palindrome.csproj": {}
+    "D:\\practice\\C#\\study\\practice basic\\6.palindrome\\6.palindrome.csproj": {}
   },
   "projects": {
-    "D:\\practice\\C#\\practice basic\\6.palindrome\\6.palindrome.csproj": {
+    "D:\\practice\\C#\\study\\practice basic\\6.palindrome\\6.palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practice\\C#\\practice basic\\6.palindrome\\6.palindrome.csproj",
+        "projectUniqueName": "D:\\practice\\C#\\study\\practice basic\\6.palindrome\\6.palindrome.csproj",
         "projectName": "6.palindrome",
-        "projectPath": "D:\\practice\\C#\\practice basic\\6.palindrome\\6.palindrome.csproj",
+        "projectPath": "D:\\practice\\C#\\study\\practice basic\\6.palindrome\\6.palindrome.csproj",
         "packagesPath": "C:\\Users\\yuvan\\.nuget\\packages\\",
-        "outputPath": "D:\\practice\\C#\\practice basic\\6.palindrome\\obj\\",
+        "outputPath": "D:\\practice\\C#\\study\\practice basic\\6.palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

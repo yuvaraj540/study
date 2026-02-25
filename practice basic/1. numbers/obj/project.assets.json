@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\practice\\C#\\practice basic\\1. numbers\\numbers.csproj",
+      "projectUniqueName": "D:\\practice\\C#\\study\\practice basic\\1. numbers\\numbers.csproj",
       "projectName": "numbers",
-      "projectPath": "D:\\practice\\C#\\practice basic\\1. numbers\\numbers.csproj",
+      "projectPath": "D:\\practice\\C#\\study\\practice basic\\1. numbers\\numbers.csproj",
       "packagesPath": "C:\\Users\\yuvan\\.nuget\\packages\\",
-      "outputPath": "D:\\practice\\C#\\practice basic\\1. numbers\\obj\\",
+      "outputPath": "D:\\practice\\C#\\study\\practice basic\\1. numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

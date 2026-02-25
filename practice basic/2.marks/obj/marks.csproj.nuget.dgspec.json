@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\practice\\C#\\practice basic\\2.marks\\marks.csproj": {}
+    "D:\\practice\\C#\\study\\practice basic\\2.marks\\marks.csproj": {}
   },
   "projects": {
-    "D:\\practice\\C#\\practice basic\\2.marks\\marks.csproj": {
+    "D:\\practice\\C#\\study\\practice basic\\2.marks\\marks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\practice\\C#\\practice basic\\2.marks\\marks.csproj",
+        "projectUniqueName": "D:\\practice\\C#\\study\\practice basic\\2.marks\\marks.csproj",
         "projectName": "marks",
-        "projectPath": "D:\\practice\\C#\\practice basic\\2.marks\\marks.csproj",
+        "projectPath": "D:\\practice\\C#\\study\\practice basic\\2.marks\\marks.csproj",
         "packagesPath": "C:\\Users\\yuvan\\.nuget\\packages\\",
-        "outputPath": "D:\\practice\\C#\\practice basic\\2.marks\\obj\\",
+        "outputPath": "D:\\practice\\C#\\study\\practice basic\\2.marks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
